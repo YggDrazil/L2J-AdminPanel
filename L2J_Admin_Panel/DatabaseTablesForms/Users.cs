@@ -7,11 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace L2J_Admin_Panel
+namespace L2J_Admin_Panel.DatabaseTables
 {
-    public partial class Form1 : Form
+    public partial class Users : Form
     {
-        public Form1()
+        public Users()
         {
             InitializeComponent();
         }

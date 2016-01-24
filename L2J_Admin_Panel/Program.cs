@@ -15,7 +15,7 @@ namespace L2J_Admin_Panel
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new L2J_Admin_Panel());
         }
     }
 }
